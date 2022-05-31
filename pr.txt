@@ -9,7 +9,20 @@ Foram criadas as coleções cidades e ligacoes;
 Exercício 2:
 
 Segue também no github todos os ficheiros para a resolução do aquecimento.
+
+
 Aquecimento:
-    Ex1: 18
-    Ex2: 1069
-    Ex3: 7
+
+    Resolução do GitHub: {
+    "token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOTRlY2VhNmI1ZDVjMjQ3NmNmMDhiMSIsImxldmVsIjozLjUsImVudGlkYWRlIjoiZW50X0EzRVMiLCJlbWFpbCI6InJwY3cyMDIyQGdtYWlsLmNvbSIsImlhdCI6MTY1NDAxODI4OCwiZXhwIjoxNjU0MDQ3MDg4fQ.r8Na53pwfYGuqXDn_bszrE7zRxqhxfVMqzfbQY8UdWuhfbrIrlIkKSMIWpK5hOLwUEjgBH9G3Nq2xIzwgMYT_Gj_NdNXlHiKTQ11ZwdCZmad1R7Jo0RvGGWcwmkGbkKYO5S-Nk988QjHRdfiIHCzbPqWKMDbqL9dpVGuEZ06LzZ9jjFTSlkQStfYMZvZmEHTEkieEwZa1pVUjX0uG1tBADQMKUBb9gMzbHTAhk36Uh8X3Z7Llui0dja7Gj2lZF_IIoqaXRk12Gy3P0jlPvwNFQa1BuyhflbL4qw7RLkGcXcGhBlhFL-L3HPWAmm8srRXDAzpmXrN0WFhY-ukjYSGyQ",
+    "name": "rpcw2022",
+    "entidade": "ent_A3ES"
+}
+
+    Ex1: http://clav-api.di.uminho.pt/v2/classes?nivel=3&token=
+        Resposta: 18
+
+    Ex2: http://clav-api.di.uminho.pt/v2/classes?estrutura=lista&token=
+        Resposta: 1069
+    Ex3: http://clav-api.di.uminho.pt/v2/classes/c750.20/descendencia?
+        Resposta: 7
