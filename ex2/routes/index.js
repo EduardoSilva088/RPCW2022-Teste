@@ -14,7 +14,7 @@ router.get('/', function(req, res, next) {
 });
 
 
-router.get('/classe', function(req, res, next) {
+router.get('/classes', function(req, res, next) {
   axios.get(`http://clav-api.di.uminho.pt/v2/classes?token=${TOKEN}&nivel=1`)
     .then((resp => {
       var classes = resp.data;
