@@ -1,0 +1,44 @@
+[
+  {
+    "codigo": "750.20.001",
+    "titulo": "Conceção, revisão e extinção de currículos e planos de estudos",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c750.20.001",
+    "status": "A"
+  },
+  {
+    "codigo": "750.20.002",
+    "titulo": "Conceção, revisão e extinção de planos de ações de formação",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c750.20.002",
+    "status": "A"
+  },
+  {
+    "codigo": "750.20.003",
+    "titulo": "Avaliação da atividade pedagógica",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c750.20.003",
+    "status": "H"
+  },
+  {
+    "codigo": "750.20.300",
+    "titulo": "Produção e seleção de recursos didático-pedagógicos",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c750.20.300",
+    "status": "A"
+  },
+  {
+    "codigo": "750.20.301",
+    "titulo": "Distribuição de atividades de ensino ou formação",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c750.20.301",
+    "status": "A"
+  },
+  {
+    "codigo": "750.20.600",
+    "titulo": "Realização de atividades de ensino ou formação",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c750.20.600",
+    "status": "A"
+  },
+  {
+    "codigo": "750.20.601",
+    "titulo": "Realização de atividades de formação e treino animal",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c750.20.601",
+    "status": "A"
+  }
+]

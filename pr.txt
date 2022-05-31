@@ -1,0 +1,15 @@
+Teste de RPCW - 2021/2022
+
+Eduardo José Arantes Silva - PG47167
+
+Para o exercício 1, dividiu-se o dataset em 2: ligacoes e cidades, de forma a facilitar o acesso ao mesmo;
+O servidor fica à escuta na porta 3030;
+Foram criadas as coleções cidades e ligacoes;
+
+Exercício 2:
+
+Segue também no github todos os ficheiros para a resolução do aquecimento.
+Aquecimento:
+    Ex1: 18
+    Ex2: 1069
+    Ex3: 7
